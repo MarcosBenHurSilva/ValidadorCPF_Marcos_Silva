@@ -13,7 +13,6 @@ https://cpfvalidadorapp.azurewebsites.net/api/ValidarCPF?cpf=00000000191
 
 Retorno esperado:
 
-```json
 {
   "cpf": "00000000191",
   "valido": true
@@ -29,3 +28,4 @@ Retorno esperado:
 ## 📄 Licença
 
 Este projeto está sob a licença **MIT**.
+
