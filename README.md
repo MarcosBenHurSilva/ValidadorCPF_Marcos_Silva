@@ -1,5 +1,7 @@
 # 🧾 Validador de CPF - Azure Functions
 
+CHAVE_DE_ACESSO = dOASghjIcOOQv7LlDMlS1bp9B_CdTxVi3iBB8ubuFubsAzFuNbPdwg==
+
 Este projeto é um microsserviço serverless desenvolvido com **Azure Functions** e **.NET 8**, com o objetivo de validar CPFs brasileiros de forma eficiente, escalável e econômica.
 
 ## 🚀 Funcionalidade
@@ -28,4 +30,5 @@ Retorno esperado:
 ## 📄 Licença
 
 Este projeto está sob a licença **MIT**.
+
 
